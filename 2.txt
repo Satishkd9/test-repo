@@ -1,4 +1,4 @@
-1 modf 1
-2
-4
+1 mas1 
+2 mas1
+4 mas1
 5
